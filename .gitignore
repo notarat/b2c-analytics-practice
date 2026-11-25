@@ -1,0 +1,11 @@
+# генерируемые файлы
+*.db
+*.xlsx
+/monthly_spend.png
+
+# Python и IDE
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
